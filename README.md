@@ -14,7 +14,7 @@ Each instance is characterized by two parameters:
 ## Contents
 This repository contains NPP instances spanning:
 
-- `b`: 3 to 12 bits
+- `b`: 4 to 12 bits
 - `n`: 16 to 1280 elements
 
 Each instance is stored as a `.txt` file containing the integer values of the set.
